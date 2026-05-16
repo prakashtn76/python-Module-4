@@ -27,4 +27,4 @@ print("You're out of list range")
 <img width="371" height="92" alt="image" src="https://github.com/user-attachments/assets/a53f170d-eff1-4ed7-acd5-ecdb07bcfe96" />
 
 ## Result
-<img width="371" height="92" alt="image" src="https://github.com/user-attachments/assets/fc79509d-e463-4a7f-8c59-db9feaa9af61" />
+Thus, the program has been successfully executed
